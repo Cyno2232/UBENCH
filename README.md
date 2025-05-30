@@ -1,6 +1,6 @@
-# UBENCH
+# UBench
 
-We are still preparing to open source UBENCH. 🤯
+We are still preparing to open source UBench. 🤯
 
 Star this repo to receive the latest notifications. 🙌
 
